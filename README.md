@@ -1,2 +1,2 @@
 # YTClone
-YouTube Clone is created using HTML and CSS 
+A static page is created using HTML and CSS of YouTube Clone
